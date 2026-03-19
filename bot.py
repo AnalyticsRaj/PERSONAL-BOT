@@ -6,7 +6,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = 8431502772
 
 PHOTO_URL = "raj.jpg"
-CHANNEL_LINK = "https://t.me/https://t.me/+p2oG2g4fNxAwYjc9"
+CHANNEL_LINK = "https://t.me/+p2oG2g4fNxAwYjc9"
 ADMIN_USERNAME = "ADS_EXPERT_RAJ"  # without @
 
 # MENU
